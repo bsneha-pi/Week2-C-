@@ -1,0 +1,14 @@
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\bin\Debug\net10.0\Task4.exe
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\bin\Debug\net10.0\Task4.deps.json
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\bin\Debug\net10.0\Task4.runtimeconfig.json
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\bin\Debug\net10.0\Task4.dll
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\bin\Debug\net10.0\Task4.pdb
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.AssemblyInfo.cs
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.dll
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\refint\Task4.dll
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.pdb
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\Task4.genruntimeconfig.cache
+C:\Users\Uzuin\RiderProjects\Workshop\Task4\obj\Debug\net10.0\ref\Task4.dll
